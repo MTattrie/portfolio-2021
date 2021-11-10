@@ -29,9 +29,26 @@ export default class MyDocument extends Document {
   }
   render() {
     return (
-      <Html lang='en-GB'>
+      <Html lang="en-GB">
         <Head>
-          <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+          <link
+            href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+            rel="stylesheet"
+          />
+          <meta name="description" content="WMT Portfolio" />
+          <meta name="title" property="og:title" content="WMT Portfolio" />
+          <meta property="og:type" content="Website" />
+          <meta
+            name="image"
+            property="og:image"
+            content="https://flic.kr/p/2mHVsXW"
+          />
+          <meta
+            name="description"
+            property="og:description"
+            content="WMT Portfolio"
+          />
+          <meta name="author" content="Mark Tattrie" />
         </Head>
         <body>
           <Main />
