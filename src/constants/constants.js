@@ -14,20 +14,19 @@ export const projects = [
     title: "Selenium Web Driver",
     description:
       "Example of a few Selenium automation tests. Tested against 'https://the-internet.herokuapp.com' on Chrome and Firefox. Utilizes Maven for dependencies.",
-    image: "/images/seleniumLogo.png",
+    image: "/images/SeleniumLogo.png",
     tags: ["Selenium", "Java", "Eclipse IDE", "Maven"],
     visit: "https://github.com/MTattrie/HerokuAppTests",
     id: 1,
   },
   {
-    title: "Jeopardy",
+    title: "Jeopardy (WIP)",
     description:
-      "Project built using React, Material UI, and JService API. A web based game version of the hit tv show Jeopardy. Currently pulls 4 pre-determined categories from the JService API displays 4 questions under each category for the player to answer. The score is updated after each answer using hooks.",
+      "A project built using React, Material UI, and JService API. A web based game version of the hit tv show Jeopardy. Currently pulls 4 pre-determined categories from the JService API displays 4 questions under each category for the player to answer. The score is updated after each answer using hooks.",
     image: "/images/jeopardy.jpg",
     alt: "jeopardy",
     tags: ["React", "Material UI", "JService API", "JavaScript"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    visit: "https://github.com/MTattrie/jeopardy-react",
     id: 2,
   },
 ];
