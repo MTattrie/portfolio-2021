@@ -41,7 +41,7 @@ export default class MyDocument extends Document {
           <meta
             name="image"
             property="og:image"
-            content="https://flic.kr/p/2mHVsXW"
+            content="https://live.staticflickr.com/65535/51670235884_b01d732510_k.jpg"
           />
           <meta
             name="description"
