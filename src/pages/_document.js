@@ -31,10 +31,6 @@ export default class MyDocument extends Document {
     return (
       <Html lang="en-GB">
         <Head>
-          <link
-            href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
-            rel="stylesheet"
-          />
           <meta name="description" content="WMT Portfolio" />
           <meta name="title" property="og:title" content="WMT Portfolio" />
           <meta property="og:type" content="Website" />
@@ -49,6 +45,10 @@ export default class MyDocument extends Document {
             content="WMT Portfolio"
           />
           <meta name="author" content="Mark Tattrie" />
+          <link
+            href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+            rel="stylesheet"
+          />
         </Head>
         <body>
           <Main />
