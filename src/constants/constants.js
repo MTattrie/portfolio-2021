@@ -35,11 +35,12 @@ export const TimeLineData = [
   { year: 2017, text: 'BCIT Computer Systems Technology (CST) Graduate' },
   { year: 2018, text: 'TBA Digital QA Analyst contract' },
   { year: 2018, text: 'Ensemble Systems - Full-time Quality Assurance Specialist / QA Lead' },
-  { year: 2020, text: 'New Prospects' },
+  { year: 2022, text: 'EasyDrugs QA Specialist' },
 ];
 
 export const AcomplishmentData = [
   { title: "QA Team Lead", text: 'Team of 4, launch 2 Roku Apps with major TV network.' },
+  { title: "QA Specialist", text: 'Launched mobile/webapp from scratch with EasyDrugs team. Created automation tests from the ground up using Selenium' }
   { title: "Testing Productivity", text: 'Standardized certification testing - 90% less failure rate' },
-  { title: "BCIT Graduate", text: 'CST Diploma - Data Communication' }
+  { title: "BCIT Graduate", text: 'CST Diploma - Data Communication' },
 ];

@@ -20,7 +20,9 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            React.js
+            React.js <br />
+            HTML5 <br />
+            CSS <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,7 +33,9 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
+            MongoDB <br />
             MySQL <br />
+            Express.js <br />
             Node.js
           </ListParagraph>
         </ListContainer>
@@ -71,7 +75,8 @@ const Technologies = () => (
           <ListParagraph>
             Selenium <br />
             Cypress <br />
-            Appium - (WIP)
+            Appium <br />
+            Cucumber/Gherkin 
           </ListParagraph>
         </ListContainer>
       </ListItem>

@@ -52,8 +52,12 @@ const Timeline = () => {
         critically, work with multiple teams (client/in-house), and hold
         accountability for myself and others. <br />
         <br />
-        Continuing down the line, I look to further develop my skills and pursue
-        a career as a QA Engineer.
+        Continuing down my career path, I took on more responsibility at a health-tech startup: EasyDrugs Inc.
+        As the sole QA of the team, I was tasked with creating all test cases, plans, and automation from scratch.
+        Other duties I took care of included revamping our company website using Webflow, email development html/css/js and normalizing data. 
+        <br />
+        <br />
+        I look to further develop my skills and pursue a career as a QA Engineer.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

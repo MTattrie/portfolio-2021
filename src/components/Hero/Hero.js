@@ -13,12 +13,12 @@ const Hero = (props) => (
           Quality Assuarance Specialist
         </SectionTitle>
         <SectionText>
-          Quality Assurance Specialist with 2+ years of experience in the
+          Quality Assurance Specialist with 5+ years of experience in the
           technical field. Looking to help build quality solutions and improve
           test efficiency. Experienced in manual/automation testing for Web-based applications, Media
           applications, and Mobile applications.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        {/* <Button onClick={props.handleClick}>Learn More</Button> */}
       </LeftSection>
     </Section>
   </>
